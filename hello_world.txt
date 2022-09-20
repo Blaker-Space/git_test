@@ -1,5 +1,5 @@
 Hello world! This is my first time using git and github. I think I am picking up on it 
-pretty well so far. I have really been enjoying learning about web development. Thank you,
+pretty well so far. I have really enjoyed learning about web development. Thank you,
 Odin Project!
 
 ~~BlakerSpace
